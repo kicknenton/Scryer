@@ -1,0 +1,2265 @@
+Armor of Gleaming
+Armor
+Common
+0
+medium or heavy
+Cast-Off Armor
+Armor
+Common
+0
+light, medium, or heavy
+Shield of Expression
+Armor
+Common
+0
+shield
+Smoldering Armor
+Armor
+Common
+0
+NULL
+Adamantine Armor
+Armor
+Uncommon
+0
+medium or heavy, but not hide
+Mariner's Armor
+Armor
+Uncommon
+0
+NULL
+Mithral Armor
+Armor
+Uncommon
+0
+medium or heavy, but not hide
+Sentinel Shield
+Armor
+Uncommon
+0
+shield
+Shield +1
+Armor
+Uncommon
+0
+shield
+Armor of Resistance
+Armor
+Rare
+1
+NULL
+Armor of Vulnerability
+Armor
+Rare
+1
+plate
+Armor +1
+Armor
+Rare
+0
+NULL
+Arrow-catching Shield
+Armor
+Rare
+1
+shield
+Elven Chain
+Armor
+Rare
+0
+chain shirt
+Glamoured Studded Leather
+Armor
+Rare
+0
+studded leather
+Shield of Missile Attraction
+Armor
+Rare
+1
+shield
+Shield +2
+Armor
+Rare
+0
+shield
+Animated Shield
+Armor
+Very Rare
+1
+shield
+Armor +2
+Armor
+Very Rare
+0
+NULL
+Demon Armor
+Armor
+Very Rare
+1
+plate
+Dragon Scale Mail
+Armor
+Very Rare
+1
+scale mail
+Dwarven Plate
+Armor
+Very Rare
+0
+plate
+shield +3
+Armor
+Very Rare
+0
+shield
+Spellguard Shield
+Armor
+Very Rare
+1
+shield
+Armor of Invulnerability 
+Armor
+Legendary
+1
+plate
+Armor +3
+Armor
+Legendary
+0
+NULL
+Efreeti Chain
+Armor
+Legendary
+1
+chain mail
+Plate Armor of Etherealness
+Armor
+Legendary
+1
+plate
+Potion of Climbing
+Potion
+Common
+0
+NULL
+Potion of Healing
+Potion
+Common
+0
+NULL
+Oil of Slipperiness
+Potion
+Uncommon
+0
+NULL
+Philter of Love
+Potion
+Uncommon
+0
+NULL
+Potion of Animal Friendship
+Potion
+Uncommon
+0
+NULL
+Potion of Fire Breath
+Potion
+Uncommon
+0
+NULL
+Potion of Greater Healing
+Potion
+Uncommon
+0
+NULL
+Potion of Growth
+Potion
+Uncommon
+0
+NULL
+Potion of Hill Giant Strength
+Potion
+Uncommon
+0
+NULL
+Potion of Poison
+Potion
+Uncommon
+0
+NULL
+Potion of Resistance
+Potion
+Uncommon
+0
+NULL
+Potion of Water Breathing
+Potion
+Uncommon
+0
+NULL
+Elixir of Health
+Potion
+Rare
+0
+NULL
+Oil of Etherealness
+Potion
+Rare
+0
+NULL
+Potion of Clairvoyance
+Potion
+Rare
+0
+NULL
+Potion of Diminution
+Potion
+Rare
+0
+NULL
+Potion of Fire Giant Strength
+Potion
+Rare
+0
+NULL
+Potion of Frost Giant Strength
+Potion
+Rare
+0
+NULL
+Potion of Gaseous Form
+Potion
+Rare
+0
+NULL
+Potion of Heroism
+Potion
+Rare
+0
+NULL
+Potion of Invulnerability 
+Potion
+Rare
+0
+NULL
+Potion of Mind Reading
+Potion
+Rare
+0
+NULL
+Potion of Stone Giant Strength
+Potion
+Rare
+0
+NULL
+Potion of Superior Healing
+Potion
+Rare
+0
+NULL
+Oil of Sharpness
+Potion
+Very Rare
+0
+NULL
+Potion of Cloud Giant Strength
+Potion
+Very Rare
+0
+NULL
+Potion of Flying
+Potion
+Very Rare
+0
+NULL
+Potion of Invisibility 
+Potion
+Very Rare
+0
+NULL
+Potion of Longevity 
+Potion
+Very Rare
+0
+NULL
+Potion of Speed Potion
+Potion
+Very Rare
+0
+NULL
+Potion of Supreme Healing
+Potion
+Very Rare
+0
+NULL
+Potion of Vitality
+Potion
+Very Rare
+0
+NULL
+Potion of Storm Giant Strength
+Potion
+Legendary
+0
+NULL
+Ring of Jumping
+Ring
+Uncommon
+1
+NULL
+Ring of Mind Shielding
+Ring
+Uncommon
+1
+NULL
+Ring of Swimming
+Ring
+Uncommon
+0
+NULL
+Ring of Warmth
+Ring
+Uncommon
+1
+NULL
+Ring of Water Walking
+Ring
+Uncommon
+0
+NULL
+Ring of Animal Influence
+Ring
+Rare
+0
+NULL
+Ring of Evasion
+Ring
+Rare
+1
+NULL
+Ring of Feather Falling
+Ring
+Rare
+1
+NULL
+Ring of Free Action
+Ring
+Rare
+1
+NULL
+Ring of Protection
+Ring
+Rare
+1
+NULL
+Ring of Resistance
+Ring
+Rare
+1
+NULL
+Ring of Spell Storing
+Ring
+Rare
+1
+NULL
+Ring of X-ray Vision
+Ring
+Rare
+1
+NULL
+Ring of the Ram
+Ring
+Rare
+1
+NULL
+Ring of Regeneration
+Ring
+Very Rare
+1
+NULL
+Ring of Shooting Stars
+Ring
+Very Rare
+1
+NULL
+Ring of Telekenisis
+Ring
+Very Rare
+1
+NULL
+Ring of Air Elemental Command
+Ring
+Legendary
+1
+NULL
+Ring of Djinni 
+Ring
+Legendary
+1
+NULL
+Ring of Earth Elemental Command
+Ring
+Legendary
+1
+NULL
+Ring of Fire Elemental Command
+Ring
+Legendary
+1
+NULL
+Ring of Invisibility
+Ring
+Legendary
+1
+NULL
+Ring of Spell Turning
+Ring
+Legendary
+1
+NULL
+Ring of Three Wishes
+Ring
+Legendary
+0
+NULL
+Ring of Water Elemental Command
+Ring
+Legendary
+1
+NULL
+Immovable Rod
+Rod
+Uncommon
+0
+NULL
+Rod of the Pact Keeper +1
+Rod
+Uncommon
+1
+NULL
+Rod of Rulership
+Rod
+Rare
+1
+NULL
+Rod of the Pact Keeper +2
+Rod
+Rare
+1
+warlock
+Tentacle Rod
+Rod
+Rare
+1
+NULL
+Rod of Absorption
+Rod
+Very Rare
+1
+NULL
+Rod of Alertness
+Rod
+Very Rare
+1
+NULL
+Rod of Security
+Rod
+Very Rare
+0
+NULL
+Rod of the Pact Keeper +3
+Rod
+Very Rare
+1
+warlock
+Rod of Lordly Might
+Rod
+Legendary
+1
+NULL
+Rod of Resurrection
+Rod
+Legendary
+1
+cleric, druid, or paladin
+Spell Scroll, 1st Level Scroll
+Scroll
+Common
+0
+NULL
+Spell Scroll, Cantrip
+Scroll
+Common
+0
+NULL
+Spell Scroll, 2nd Level
+Scroll
+Uncommon
+0
+NULL
+Spell Scroll, 3rd Level
+Scroll
+Uncommon
+0
+NULL
+Scroll of Protection
+Scroll
+Rare
+0
+NULL
+Spell Scroll, 4th Level
+Scroll
+Rare
+0
+NULL
+Spell Scroll, 5th Level
+Scroll
+Rare
+0
+NULL
+Spell Scroll, 6th Level
+Scroll
+Very Rare
+0
+NULL
+Spell Scroll, 7th Level
+Scroll
+Very Rare
+0
+NULL
+Spell Scroll, 8th Level
+Scroll
+Very Rare
+0
+NULL
+Spell Scroll, 9th Level
+Scroll
+Legendary
+0
+NULL
+Staff of Adornment
+Staff
+Common
+0
+NULL
+Staff of Birdcalls
+Staff
+Common
+0
+NULL
+Staff of Flowers
+Staff
+Common
+0
+NULL
+Staff of the Adder
+Staff
+Uncommon
+1
+cleric, druid, or warlock
+Staff of the Python
+Staff
+Uncommon
+1
+cleric, druid, or warlock
+Staff of Charming
+Staff
+Rare
+1
+bard, cleric, druid, sorcerer, warlock, or wizard
+Staff of Withering
+Staff
+Rare
+1
+cleric, druid, or warlock
+Staff of the Woodlands
+Staff
+Rare
+1
+druid
+Staff of Healing
+Staff
+Rare
+1
+bard, cleric, or druid
+Staff of Fire
+Staff
+Very Rare
+1
+druid, sorcerer, warlock, or wizard
+Staff of Frost
+Staff
+Very Rare
+1
+druid, sorrcerer, warlock or wizard
+Staff of Power
+Staff
+Very Rare
+1
+sorcerer, warlock, or wizard
+Staff of Striking
+Staff
+Very Rare
+1
+NULL
+Staff of Thunder and Lightning
+Staff
+Very Rare
+1
+NULL
+Staff of the Magi
+Staff
+Legendary
+1
+sorcerer, warlock, or wizard
+ Wand of Conducting
+Wand
+Common
+0
+NULL
+Wand of Pyrotechnics
+Wand
+Common
+0
+NULL
+Wand of Scowls
+Wand
+Common
+0
+NULL
+Wand of Smiles
+Wand
+Common
+0
+NULL
+Wand of Magic Detection
+Wand
+Uncommon
+0
+NULL
+Wand of Magic Missiles
+Wand
+Uncommon
+0
+NULL
+Wand of Secrets
+Wand
+Uncommon
+0
+NULL
+Wand of Web
+Wand
+Uncommon
+1
+spellcaster
+Wand of the War Mage +1
+Wand
+Uncommon
+1
+spellcaster
+Wand of Binding
+Wand
+Rare
+1
+spellcaster
+Wand of Enemy Detection
+Wand
+Rare
+1
+NULL
+Wand of Fear
+Wand
+Rare
+1
+NULL
+Wand of Fireballs
+Wand
+Rare
+1
+NULL
+Wand of Lightning Bolts
+Wand
+Rare
+1
+spellcaster
+Wand of Paralysis
+Wand
+Rare
+1
+spellcaster
+Wand of Wonder
+Wand
+Rare
+1
+spellcaster
+Wand of the War Mage +2
+Wand
+Rare
+1
+spellcaster
+Wand of Polymorph
+Wand
+Very Rare
+1
+spellcaster
+Wand of the War Mage +3
+Wand
+Very Rare
+1
+spellcaster
+Moon-Touched Sword
+Weapon
+Common
+0
+any sword
+Unbreakable Arrow
+Weapon
+Common
+0
+arrow
+Walloping Ammunition
+Weapon
+Common
+0
+any ammunition
+Ammunition +1
+Weapon
+Uncommon
+0
+any ammunition
+Javelin of Lightning
+Weapon
+Uncommon
+0
+javelin
+Moon Sickle +1
+Weapon
+Uncommon
+1
+sickle, druid or ranger
+Sword of Vengeance
+Weapon
+Uncommon
+1
+any sword
+Trident of Fish Command
+Weapon
+Uncommon
+1
+NULL
+Weapon of Warning
+Weapon
+Uncommon
+1
+NULL
+Weapon +1
+Weapon
+Uncommon
+1
+NULL
+Ammunition +2
+Weapon
+Rare
+1
+any ammunition
+Berserker Axe
+Weapon
+Rare
+1
+any axe
+Dagger of Venom
+Weapon
+Rare
+0
+NULL
+Devotee's Censer
+Weapon
+Rare
+1
+flail, cleric or paladin
+Dragon Slayer
+Weapon
+Rare
+0
+any sword
+Flame Tongue
+Weapon
+Rare
+1
+any sword
+Giant Slayer
+Weapon
+Rare
+0
+any axe or sword
+Mace of Disrupton
+Weapon
+Rare
+1
+ mace
+Mace of Smiting
+Weapon
+Rare
+1
+mace
+Mace of Terror
+Weapon
+Rare
+1
+mace
+Moon Sickle +2
+Weapon
+Rare
+1
+sickle, druid or ranger
+Sun Blade
+Weapon
+Rare
+1
+longsword
+Sword of Life Stealing
+Weapon
+Rare
+1
+any sword
+Sword of Wounding
+Weapon
+Rare
+1
+any sword
+Vicious Weapon
+Weapon
+Rare
+0
+NULL
+Weapon +2
+Weapon
+Rare
+0
+NULL
+Ammunition +3
+Weapon
+Very Rare
+0
+any ammunition
+Arrow of Slaying
+Weapon
+Very Rare
+0
+arrow
+Dancing Sword
+Weapon
+Very Rare
+1
+any sword
+Dwarven Thrower
+Weapon
+Very Rare
+1
+warhamer, dwarf
+Frost Brand
+Weapon
+Very Rare
+1
+any sword
+Moon Sickle +3
+Weapon
+Very Rare
+1
+sickle, druid or ranger
+Nine Lives Stealer
+Weapon
+Very Rare
+1
+any sword
+Oathbow Weapon
+Weapon
+Very Rare
+1
+longbow
+Scimitar of Speed
+Weapon
+Very Rare
+1
+scimitar
+Sword of Sharpness
+Weapon
+Very Rare
+1
+any sword that deals slashing damage
+Weapon +3
+Weapon
+Very Rare
+0
+NULL
+Defender
+Weapon
+Legendary
+0
+any sword
+Hammer of Thunderbolts
+Weapon
+Legendary
+0
+maul
+Holy Avenger
+Weapon
+Legendary
+1
+any sword, paladin
+Luck Blade
+Weapon
+Legendary
+1
+any sword
+Sword of Answering
+Weapon
+Legendary
+1
+longsword, by alignment
+Vorpal Sword
+Weapon
+Legendary
+1
+any sword that deals slashing damage
+Bead of Nourishment
+Wondrous
+Common
+0
+NULL
+Bead of Refreshment
+Wondrous
+Common
+0
+NULL
+Boots of False Tracks
+Wondrous
+Common
+0
+NULL
+Candle of the Deep
+Wondrous
+Common
+0
+NULL
+Charlatan's Die
+Wondrous
+Common
+1
+NULL
+Cloak of Billowing
+Wondrous
+Common
+0
+NULL
+Cloak of Many Fashions
+Wondrous
+Common
+0
+NULL
+Clockworrk Amulet
+Wondrous
+Common
+0
+NULL
+Clothes of Mending
+Wondrous
+Common
+0
+NULL
+Dark Shard Amulet
+Wondrous
+Common
+1
+NULL
+Dread Helm
+Wondrous
+Common
+0
+NULL
+Ear Horn of Hearing
+Wondrous
+Common
+0
+NULL
+Enduring Spellbook
+Wondrous
+Common
+0
+NULL
+Ersatz Eye
+Wondrous
+Common
+1
+NULL
+Hat of Vermin
+Wondrous
+Common
+0
+NULL
+Hat of Wizardry
+Wondrous
+Common
+1
+NULL
+Heward's Handy Spice Pouch
+Wondrous
+Common
+0
+NULL
+Horn of Silent Alarm
+Wondrous
+Common
+0
+NULL
+Illuminator's Tattoo
+Wondrous
+Common
+1
+NULL
+Instrument of Illusions
+Wondrous
+Common
+1
+NULL
+Instrument of Scribing
+Wondrous
+Common
+1
+NULL
+Lock of Trickery
+Wondrous
+Common
+0
+NULL
+Masquerade Tattoo
+Wondrous
+Common
+1
+NULL
+Mystery Key
+Wondrous
+Common
+0
+NULL
+Orb of Direction
+Wondrous
+Common
+0
+NULL
+Orb of Time
+Wondrous
+Common
+0
+NULL
+Perfume of Bewitching
+Wondrous
+Common
+0
+NULL
+Pipe of Smoke Monsters
+Wondrous
+Common
+0
+NULL
+Pole of Angling
+Wondrous
+Common
+0
+NULL
+Pole of Collapsing
+Wondrous
+Common
+0
+NULL
+Pot of Awakening
+Wondrous
+Common
+0
+NULL
+Prosthetic Limb
+Wondrous
+Common
+0
+NULL
+Rope of Mending
+Wondrous
+Common
+0
+NULL
+Ruby of the War Mage
+Wondrous
+Common
+1
+spellcaster
+Spellwrought Tattoo, 1st Level
+Wondrous
+Common
+0
+NULL
+Spellwrought Tattoo, Cantrip
+Wondrous
+Common
+0
+NULL
+Talking Doll
+Wondrous
+Common
+1
+NULL
+Tankard of Sobriety
+Wondrous
+Common
+0
+NULL
+Veteran's Cane
+Wondrous
+Common
+0
+NULL
+Alchemy Jug
+Wondrous
+Uncommon
+0
+NULL
+All-Purpose Tool +1
+Wondrous
+Uncommon
+1
+artificer
+Amulet of Proof Against Detection and Location
+Wondrous
+Uncommon
+1
+NULL
+Amulet of the Devout +1
+Wondrous
+Uncommon
+1
+cleric, paladin
+Arcane Grimoire +1
+Wondrous
+Uncommon
+1
+wizard
+Bag of Holding
+Wondrous
+Uncommon
+0
+NULL
+Bag of Tricks
+Wondrous
+Uncommon
+0
+NULL
+Barrier Tattoo, AC 12
+Wondrous
+Uncommon
+1
+NULL
+Bloodwell Vial +2
+Wondrous
+Uncommon
+1
+sorcerer
+Boots of Elvenkind
+Wondrous
+Uncommon
+0
+NULL
+Boots of Striding and Springing
+Wondrous
+Uncommon
+1
+NULL
+Boots of the Winterlands
+Wondrous
+Uncommon
+1
+NULL
+Bracers of Archery
+Wondrous
+Uncommon
+1
+NULL
+Brooch of Shielding
+Wondrous
+Uncommon
+1
+NULL
+Broom of Flying
+Wondrous
+Uncommon
+0
+NULL
+Cap of Water Breathing
+Wondrous
+Uncommon
+0
+NULL
+Circlet of Blasting
+Wondrous
+Uncommon
+0
+NULL
+Cloak of Elvenkind
+Wondrous
+Uncommon
+1
+NULL
+Cloak of Protection
+Wondrous
+Uncommon
+1
+NULL
+Cloak of the Manta Ray
+Wondrous
+Uncommon
+0
+NULL
+Coiling Grasp Tattoo
+Wondrous
+Uncommon
+1
+NULL
+Decanter of Endless Water
+Wondrous
+Uncommon
+0
+NULL
+Deck of Illusions
+Wondrous
+Uncommon
+0
+NULL
+Driftglobe
+Wondrous
+Uncommon
+0
+NULL
+Dust of Disappearance
+Wondrous
+Uncommon
+0
+NULL
+Dust of Dryness
+Wondrous
+Uncommon
+0
+NULL
+Dust of Sneezing and Choking
+Wondrous
+Uncommon
+0
+NULL
+Eldritch Claw Tattoo
+Wondrous
+Uncommon
+1
+NULL
+Elemental Gem
+Wondrous
+Uncommon
+0
+NULL
+Eversmoking Bottle
+Wondrous
+Uncommon
+0
+NULL
+Eyes of Charming
+Wondrous
+Uncommon
+1
+NULL
+Eyes of Minute Seeing
+Wondrous
+Uncommon
+0
+NULL
+Eyes of the Eagle
+Wondrous
+Uncommon
+1
+NULL
+Feywild Shard
+Wondrous
+Uncommon
+1
+sorcerer
+Figurine of Wondrous Power, Silver Raven
+Wondrous
+Uncommon
+0
+NULL
+Gauntlets of Ogre Power
+Wondrous
+Uncommon
+1
+NULL
+Gem of Brightness
+Wondrous
+Uncommon
+0
+NULL
+Gloves of Missile Snaring
+Wondrous
+Uncommon
+1
+NULL
+Gloves of Swimming and Climbing
+Wondrous
+Uncommon
+1
+NULL
+Gloves of Thievery
+Wondrous
+Uncommon
+0
+NULL
+Goggles of Night
+Wondrous
+Uncommon
+0
+NULL
+Guardian Emblem
+Wondrous
+Uncommon
+1
+cleric or paladin
+Hat of Disguise
+Wondrous
+Uncommon
+1
+NULL
+Headband of Intellect
+Wondrous
+Uncommon
+1
+NULL
+Helm of Comprehending Languages
+Wondrous
+Uncommon
+0
+NULL
+Helm of Telepathy
+Wondrous
+Uncommon
+1
+NULL
+Instrument of the Bards, Doss Lute
+Wondrous
+Uncommon
+1
+bard
+Instrument of the Bards, Fochlucan Bandore
+Wondrous
+Uncommon
+1
+bard
+Instrument of the Bards, Mac-Fuirmidh Cittern
+Wondrous
+Uncommon
+1
+bard
+Keoghtom's Ointment
+Wondrous
+Uncommon
+0
+NULL
+Lantern of Revealing
+Wondrous
+Uncommon
+0
+NULL
+Medallion of Thoughts
+Wondrous
+Uncommon
+1
+NULL
+Nature's Mantle
+Wondrous
+Uncommon
+1
+druid or ranger
+Necklace of Adaptation
+Wondrous
+Uncommon
+1
+NULL
+Pearl of Power
+Wondrous
+Uncommon
+1
+spellcaster
+Periapt of Health
+Wondrous
+Uncommon
+0
+NULL
+Periapt of Wound Closure
+Wondrous
+Uncommon
+1
+NULL
+Pipes of Haunting
+Wondrous
+Uncommon
+0
+NULL
+Pipes of the Sewers
+Wondrous
+Uncommon
+1
+NULL
+Quiver of Ehlonna
+Wondrous
+Uncommon
+0
+NULL
+Rhythm-Maker's Drum +1
+Wondrous
+Uncommon
+1
+bard
+Robe of Useful Items
+Wondrous
+Uncommon
+0
+NULL
+Rope of Climbing
+Wondrous
+Uncommon
+0
+NULL
+Saddle of the Cavalier
+Wondrous
+Uncommon
+0
+NULL
+Sending Stones
+Wondrous
+Uncommon
+0
+NULL
+Slippers of Spider Climbing
+Wondrous
+Uncommon
+1
+NULL
+Spellwrought Tattoo, 2nd Level
+Wondrous
+Uncommon
+1
+NULL
+Spellwrought Tattoo, 3rd Level
+Wondrous
+Uncommon
+1
+NULL
+Stone of Good Luck
+Wondrous
+Uncommon
+1
+NULL
+Wind Fan
+Wondrous
+Uncommon
+0
+NULL
+Winged Boots
+Wondrous
+Uncommon
+1
+NULL
+Alchemical Compendium
+Wondrous
+Rare
+1
+wizard
+All-Purpose Tool +2
+Wondrous
+Rare
+1
+artificer
+Amulet of Health
+Wondrous
+Rare
+1
+NULL
+Amulet of the Devout +2
+Wondrous
+Rare
+1
+cleric, paladin
+Arcane Grimoire +2
+Wondrous
+Rare
+1
+wizard
+Astral Shard
+Wondrous
+Rare
+1
+sorcerer
+Astromancy Archive
+Wondrous
+Rare
+1
+wizard
+Atlas of Endless Horizons
+Wondrous
+Rare
+1
+wizard
+Bag of Beans
+Wondrous
+Rare
+0
+NULL
+Barrier Tattoo, AC 15
+Wondrous
+Rare
+1
+NULL
+Bead of Force
+Wondrous
+Rare
+0
+NULL
+Bell Branch
+Wondrous
+Rare
+1
+druid or warlock
+Belt of Dwarvenkind
+Wondrous
+Rare
+1
+NULL
+Belt of Hill Giant Strength
+Wondrous
+Rare
+1
+NULL
+Bloodwelll Vial +2
+Wondrous
+Rare
+1
+sorcerer
+Boots of Levitation
+Wondrous
+Rare
+1
+NULL
+Boots of Speed
+Wondrous
+Rare
+1
+NULL
+Bowl of Commanding Water
+Wondrous
+Rare
+1
+NULL
+Bracers of Defence
+Wondrous
+Rare
+1
+NULL
+Brazier of Commanding Fire Elementals
+Wondrous
+Rare
+0
+NULL
+Cape of the Mounteback
+Wondrous
+Rare
+0
+NULL
+Censer of Controlling Air Elementals
+Wondrous
+Rare
+0
+NULL
+Chime of Opening
+Wondrous
+Rare
+0
+NULL
+Cloak of Displacement
+Wondrous
+Rare
+1
+NULL
+Cloak of the Bat
+Wondrous
+Rare
+1
+NULL
+Cube of Force
+Wondrous
+Rare
+1
+NULL
+Daern's Instant Fortress
+Wondrous
+Rare
+0
+NULL
+Dimensional Shackles
+Wondrous
+Rare
+0
+NULL
+Duplicitious Manuscript
+Wondrous
+Rare
+1
+wizard
+Elemental Essence Shard, Air
+Wondrous
+Rare
+1
+sorcerer
+Elemental Essence Shard, Earth
+Wondrous
+Rare
+1
+sorcerer
+Elemental Essence Shard, Fire
+Wondrous
+Rare
+1
+sorcerer
+Elemental Essence Shard, Water
+Wondrous
+Rare
+1
+sorcerer
+Far Realm Shard
+Wondrous
+Rare
+1
+sorcerer
+Figurine of Wondrous Power, Bronze Griffon
+Wondrous
+Rare
+0
+NULL
+Figurine of Wondrous Power, Ebony Fly
+Wondrous
+Rare
+0
+NULL
+Figurine of Wondrous Power, Golden Lions
+Wondrous
+Rare
+0
+NULL
+Figurine of Wondrous Power, Ivory Goats
+Wondrous
+Rare
+0
+NULL
+Figurine of Wondrous Power, Marble Elephants
+Wondrous
+Rare
+0
+NULL
+Figurine of Wondrous Power, Onyx Dog
+Wondrous
+Rare
+0
+NULL
+Figurine of Wondrou Power, Serpentine Owl
+Wondrous
+Rare
+0
+NULL
+Folding Boat
+Wondrous
+Rare
+0
+NULL
+Fulminating Treatise
+Wondrous
+Rare
+1
+wizard
+Gem of Seeing
+Wondrous
+Rare
+1
+NULL
+Heart Weaver's Primer
+Wondrous
+Rare
+1
+wizard
+Helm of Teleportation
+Wondrous
+Rare
+1
+NULL
+Heward's Handy Haversack
+Wondrous
+Rare
+0
+NULL
+Horn of Blasting
+Wondrous
+Rare
+0
+NULL
+Horn of Valhalla, Brass
+Wondrous
+Rare
+0
+NULL
+Horn of Valhalla, Silver
+Wondrous
+Rare
+0
+NULL
+Horseshoes of Speed
+Wondrous
+Rare
+0
+NULL
+Instruments of the Bards, Canaith Mandolin
+Wondrous
+Rare
+1
+bard
+Instrument of the Bards, Cli Lyre
+Wondrous
+Rare
+1
+bard
+Ioun Stone, Awareness
+Wondrous
+Rare
+1
+NULL
+Ioun Stone, Protection
+Wondrous
+Rare
+1
+NULL
+Ioun Stone, Reserve
+Wondrous
+Rare
+1
+NULL
+Ioun Stone, Sustenance
+Wondrous
+Rare
+1
+NULL
+Iron Bands of Bilarro
+Wondrous
+Rare
+0
+NULL
+Libram of Souls and Flesh
+Wondrous
+Rare
+1
+wizard
+Lyre of Building
+Wondrous
+Rare
+1
+bard
+Mantle of Spell Resistance
+Wondrous
+Rare
+1
+NULL
+Necklace of Fireballs
+Wondrous
+Rare
+0
+NULL
+Necklace of Prayer Beads
+Wondrous
+Rare
+1
+cleric, druid, or paladin
+Outer Essence Shard, Chaotic
+Wondrous
+Rare
+1
+sorcerer
+Outer Essence Shard, Evil
+Wondrous
+Rare
+1
+sorcerer
+Outer Essence Shard, Good
+Wondrous
+Rare
+1
+sorcerer
+Outer Essence Shard, Lawful
+Wondrous
+Rare
+1
+sorcerer
+Periapt of Proof Against Poison
+Wondrous
+Rare
+0
+NULL
+Planecaller's Codex
+Wondrous
+Rare
+1
+wizard
+Portable Hole
+Wondrous
+Rare
+0
+NULL
+Protective Verses
+Wondrous
+Rare
+1
+wizard
+Quaal's Feather Token
+Wondrous
+Rare
+0
+NULL
+Reveler's Concertina
+Wondrous
+Rare
+1
+bard
+Rhythm-Maker's Drum +2
+Wondrous
+Rare
+1
+bard
+Robe of Eyes
+Wondrous
+Rare
+1
+NULL
+Rope of Entanglement
+Wondrous
+Rare
+0
+NULL
+Shadowfell Brand Tattoo
+Wondrous
+Rare
+1
+NULL
+Shadowfell Shard
+Wondrous
+Rare
+1
+sorcerer
+Spellwrought Tattoo, 4th Level
+Wondrous
+Rare
+0
+NULL
+Spellwrought Tattoo, 5th Level
+Wondrous
+Rare
+0
+NULL
+Stone of Controlling Earth Elementals
+Wondrous
+Rare
+0
+NULL
+Wings of Flying
+Wondrous
+Rare
+1
+NULL
+Absorbing Tattoo
+Wondrous
+Very Rare
+1
+NULL
+All-Purpose Tool +3
+Wondrous
+Very Rare
+1
+artificer
+Amulet of the Devout +3
+Wondrous
+Very Rare
+1
+cleric, paladin
+Amulet of the Planes
+Wondrous
+Very Rare
+1
+NULL
+Arcane Grimoire +3
+Wondrous
+Very Rare
+1
+wizard
+Bag of Devouring
+Wondrous
+Very Rare
+0
+NULL
+Barrier Tattoo, AC 18
+Wondrous
+Very Rare
+1
+NULL
+Belt of Fire Giant Strength
+Wondrous
+Very Rare
+1
+NULL
+Belt of Frost Giant Strength
+Wondrous
+Very Rare
+1
+NULL
+Belt of Stone Giant Strength
+Wondrous
+Very Rare
+1
+NULL
+Bloodwell Vial +3
+Wondrous
+Very Rare
+1
+sorcerer
+Candle of Invocation
+Wondrous
+Very Rare
+1
+NULL
+Carpet of Flying
+Wondrous
+Very Rare
+0
+NULL
+Cauldron of Rebirth
+Wondrous
+Very Rare
+1
+druid or warlock
+Cloak of Arachnida
+Wondrous
+Very Rare
+1
+NULL
+Crystal Ball
+Wondrous
+Very Rare
+1
+NULL
+Crystalline Chronicle
+Wondrous
+Very Rare
+1
+wizard
+Efreeti Bottle
+Wondrous
+Very Rare
+0
+NULL
+Figurine of Wondrous Power, Obsidian Steed
+Wondrous
+Very Rare
+0
+NULL
+Ghost Step Tattoo
+Wondrous
+Very Rare
+1
+NULL
+Helm of Brilliance
+Wondrous
+Very Rare
+1
+NULL
+Horn of Valhalla, Bronze
+Wondrous
+Very Rare
+0
+NULL
+Horseshoes of a Zephyr
+Wondrous
+Very Rare
+0
+NULL
+Instrument of the Bards, Anstruth Harp
+Wondrous
+Very Rare
+1
+bard
+Ioun Stone, Absorption
+Wondrous
+Very Rare
+1
+NULL
+Ioun Stone, Agility
+Wondrous
+Very Rare
+1
+NULL
+Ioun Stone, Fortitude
+Wondrous
+Very Rare
+1
+NULL
+Ioun Stone, Insight
+Wondrous
+Very Rare
+1
+NULL
+Ioun Stone, Intellect
+Wondrous
+Very Rare
+1
+NULL
+Ioun Stone, Leadership
+Wondrous
+Very Rare
+1
+NULL
+Ioun Stone, Strength
+Wondrous
+Very Rare
+1
+NULL
+Lifewell Tattoo
+Wondrous
+Very Rare
+1
+NULL
+Manual of Bodily Health
+Wondrous
+Very Rare
+0
+NULL
+Manual of Gainful Exercise
+Wondrous
+Very Rare
+0
+NULL
+Manual of Golems
+Wondrous
+Very Rare
+0
+NULL
+Manual of Quickness of Action
+Wondrous
+Very Rare
+0
+NULL
+Mirror of Life Trapping
+Wondrous
+Very Rare
+0
+NULL
+Nolzur's Marvelous Pigments
+Wondrous
+Very Rare
+0
+NULL
+Rhythm-Maker's Drum +3
+Wondrous
+Very Rare
+1
+bard
+Robe of Scintillating Colors
+Wondrous
+Very Rare
+1
+NULL
+Robe of Stars
+Wondrous
+Very Rare
+1
+NULL
+Tome of Clear Thought
+Wondrous
+Very Rare
+0
+NULL
+Tome of Leadership and Influence
+Wondrous
+Very Rare
+0
+NULL
+Tome of Understanding
+Wondrous
+Very Rare
+0
+NULL
+Apparatus of Kwalish
+Wondrous
+Legendary
+0
+NULL
+Belt of Cloud Giant Strength
+Wondrous
+Legendary
+1
+NULL
+Belt of Storm Giant Strength
+Wondrous
+Legendary
+1
+NULL
+Blood Fury Tattoo
+Wondrous
+Legendary
+1
+NULL
+Cloak of Invisibility
+Wondrous
+Legendary
+1
+NULL
+Crystal Ball of Mind Reading
+Wondrous
+Legendary
+1
+NULL
+Crystal Ball of Telepathy
+Wondrous
+Legendary
+1
+NULL
+Crystal Ball of True Seeing
+Wondrous
+Legendary
+1
+NULL
+Cubic Gate
+Wondrous
+Legendary
+0
+NULL
+Deck of Many Things
+Wondrous
+Legendary
+0
+NULL
+Horn of Valhalla, Iron
+Wondrous
+Legendary
+0
+NULL
+Instrument of the Bards, Ollamh Harp
+Wondrous
+Legendary
+1
+bard
+Ioun Stone, Greater Absorption
+Wondrous
+Legendary
+1
+NULL
+Ioun Stone, Mastery
+Wondrous
+Legendary
+1
+NULL
+Ioun Stone, Regeneration
+Wondrous
+Legendary
+1
+NULL
+Iron Flask
+Wondrous
+Legendary
+0
+NULL
+Robe of the Archmagi
+Wondrous
+Legendary
+1
+sorcerer, warlock, or wizard
+Scarab of Protection
+Wondrous
+Legendary
+1
+NULL
+Soverign Glue
+Wondrous
+Legendary
+0
+NULL
+Sphere of Annihilation
+Wondrous
+Legendary
+0
+NULL
+Talisman of Pure Good
+Wondrous
+Legendary
+1
+good alignment
+Talisman of Ultimate Evil
+Wondrous
+Legendary
+1
+evil alignment
+Talisman of the Sphere
+Wondrous
+Legendary
+1
+NULL
+Tome of the Stilled Tongue
+Wondrous
+Legendary
+1
+wizard
+Universal Solvent
+Wondrous
+Legendary
+0
+NULL
+Well of Many Worlds
+Wondrous
+Legendary
+0
+NULL
+Baba Yaga's Mortar and Pestle
+Wondrous
+Artifact
+1
+NULL
+Crook of Rao
+Wondrous
+Artifact
+1
+NULL
+Demonomicon of Iggwilv
+Wondrous
+Artifact
+1
+NULL
+Luba's Tarokka of Souls
+Wondrous
+Artifact
+1
+NULL
+Mighty Servant of Leuk-o
+Wondrous
+Artifact
+1
+NULL
+Teeth of Dahlver-Nar
+Wondrous
+Artifact
+1
+NULL
